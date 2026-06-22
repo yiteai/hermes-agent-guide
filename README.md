@@ -88,7 +88,9 @@
 ---
 ## 中文版
 
-# 什么是 Hermes Agent：从神话信使到 AI 自主体
+# Hermes Agent 完全指南：从入门到生产级自主 AI 系统
+
+> 最系统的 Hermes Agent 技术书籍：覆盖 NousResearch Hermes 模型谱系、自我改进学习循环、Atropos RL 框架、Skill 工程化（开发/测试/发布）、MCP/A2A 协议生态、自部署全链路（Ollama/vLLM/K8s）、Agent 进阶架构（ReAct/Reflexion/多Agent协作）、Token成本优化（73%固定开销剖析）、安全攻防、5个完整落地案例。75章，开发者从「了解Agent」到「构建生产级自主AI系统」的终极手册。
 
 **📖 在线免费阅读全文:[https://tools.yiteai.com/books/hermes-guide](https://tools.yiteai.com/books/hermes-guide)**
 
